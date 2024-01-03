@@ -1,0 +1,11 @@
+{
+  "name": "leafeon-root",
+  "scripts": {
+    "dev": "pnpm -F leafeon dev",
+    "build": "pnpm -F leafeon build"
+  },
+  "devDependencies": {
+    "tsup": "^8.0.1",
+    "typescript": "^5.3.3"
+  }
+}
